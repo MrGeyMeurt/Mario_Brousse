@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    overflow: visible;
+}
+div{
+    display: inline-block;
+}
