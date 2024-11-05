@@ -37,9 +37,6 @@ To launch the game locally:
 - **Hugo.B** - Graphic Designer & Artist
 - **Lilian.D** - Project Communication
 
-## License
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
 ## Acknowledgments
 Thanks to the collaborators and everyone who supported this student project.
 - Laure.M - Technical Assistance
