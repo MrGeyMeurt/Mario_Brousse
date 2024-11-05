@@ -10,15 +10,7 @@
 - **Current State**: The project is currently in active development after a period of inactivity. The focus is on completing the core features to finalize the game experience.
 - **Planned Updates**: Work is underway to implement and polish the main features that were previously unfinished.
 
-## Installation
-To launch the game locally:
-
-1. Download or clone the repository.
-1. Open the ```index.html``` file in your web browser.
->[!NOTE]
->No specific environment setup is required. You can use any code editor to explore and modify the code (Visual Studio Code is recommended).
-
-## Main Features
+## Features
 - **Single Level**: The game includes one level where the player must reach the "case" to complete the level, ending the game and displaying the player’s final score.
 - **Star Collection**: Stars appear randomly on the map and can be collected to increase the player’s score.
 - **Block Breaking**: Golden blocks are hidden on the map, and the player can break them to earn extra points.
@@ -28,6 +20,12 @@ To launch the game locally:
 ## Technologies Used
 - **Frontend**: HTML, CSS, Bootstrap 5
 - **Game Framework**: JavaScript with Phaser.js
+
+## Installation
+1. Download or clone the repository.
+2. Open the ```index.html``` file in your web browser.
+>[!NOTE]
+>No specific environment setup is required. You can use any code editor to explore and modify the code (Visual Studio Code is recommended).
 
 ## Contributors
 - **Manu.T** - Lead Developer & Web Integration
