@@ -27,6 +27,11 @@
 >[!NOTE]
 >No specific environment setup is required. You can use any code editor to explore and modify the code (Visual Studio Code is recommended).
 
+## How to Play
+- **Control**: Use ``ZQSD`` keys to move.
+- **Objective**: ??
+- **Game Over**: ??
+
 ## Contributors
 - **Manu.T** - Lead Developer & Web Integration
 - **Hugo.B** - Graphic Designer & Artist
