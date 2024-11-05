@@ -6,12 +6,9 @@
 > [!TIP]
 > You can try the game [here](https://mrgeymeurt.github.io/mario_brousse/).
 
-# Project status
-The current status of Mario Brousse:
-
-- **Current Phase**: The project is currently in active development after a period of inactivity. The focus is on completing the core features to finalize the game experience.
+## Project status
+- **Current State**: The project is currently in active development after a period of inactivity. The focus is on completing the core features to finalize the game experience.
 - **Planned Updates**: Work is underway to implement and polish the main features that were previously unfinished.
-- **Update Frequency**: Updates are made occasionally rather than on a regular schedule, as development time allows.
 
 ## Installation
 To launch the game locally:
