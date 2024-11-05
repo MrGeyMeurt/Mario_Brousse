@@ -16,7 +16,7 @@ The current status of Mario Brousse:
 ## Installation
 To launch the game locally:
 
-1. Download or clone the project repository.
+1. Download or clone the repository.
 1. Open the ```index.html``` file in your web browser.
 >[!NOTE]
 >No specific environment setup is required. You can use any code editor to explore and modify the code (Visual Studio Code is recommended).
