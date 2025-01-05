@@ -1,4 +1,4 @@
-![labrousse](https://github.com/user-attachments/assets/47fd56b9-8eab-4d64-a7d0-be0ad1f43a47)
+![labrousse](.github/labrousse.jpg)
 # Mario Brousse
 ## Description
 *Mario Brousse* is a student project inspired by the gameplay of Nintendo’s famous *Mario Bros* game, but deeply rooted in the culture of [New Caledonia](https://en.wikipedia.org/wiki/New_Caledonia). Coded in JavaScript using the Phaser library, this project recreates a platform level where the main character, **Néness**, a caldoche (a New Caledonian character of European descent), navigates through a landscape inspired by the local environment, filled with animals native to New Caledonia as enemies. The player’s goal is to reach a [traditional Kanak hut](https://en.wikipedia.org/wiki/File:Kanak_house-2.jpg) called a "case" (/kaz/) at the end of the level, which completes the game and displays their score.
